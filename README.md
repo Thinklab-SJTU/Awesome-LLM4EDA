@@ -17,6 +17,7 @@
 8. AutoChip: Automating HDL Generation Using LLM Feedback
 9. Chip-Chat: Challenges and Opportunities in Conversational Hardware Design
 10. VeriGen: A Large Language Model for Verilog Code Generation
+11. Generating Secure Hardware using ChatGPT Resistant to CWEs
 
 
 
@@ -40,6 +41,8 @@
 4. RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models
 5. LLM-assisted Generation of Hardware Assertions
 6. Using LLMs to Facilitate Formal Verification of RTL
+7. DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and Policy-based Protection
+
 
 
 
