@@ -23,18 +23,8 @@
 13. A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation
 14. RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution
 15. VerilogEval: Evaluating Large Language Models for Verilog Code Generation
+16. Benchmarking Large Language Models for Automated Verilog RTL Code Generation
 
-
-
-
-<!-- ## Evaluation of Generated Code -->
-<!-- 1. VerilogEval: Evaluating Large Language Models for Verilog Code Generation -->
-<!-- 2. Benchmarking Large Language Models for Automated Verilog RTL Code Generation, **DATE 2023** -->
-<!-- 3. ChipGPT: How far are we from natural language hardware design -->
-<!-- 4. RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model -->
-<!-- 5. VeriGen: A Large Language Model for Verilog Code Generation -->
-<!-- 6. LLM for SoC Security: A Paradigm Shift -->
-<!-- 6. LEVER: Learning to Verify Language-to-Code Generation with Execution. **ICML 2023** -->
 
 
 
@@ -54,13 +44,13 @@
 
 
 
-## Feature Extraction
+<!-- ## Feature Extraction -->
 
 
-## Logic Synthesis
+<!-- ## Logic Synthesis -->
 
 
-## Optimization
+<!-- ## Optimization -->
 
 
 <!-- ## Task Planning -->
