@@ -32,6 +32,7 @@
 16. Benchmarking Large Language Models for Automated Verilog RTL Code Generation
 17. SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model
 18. Zero-Shot RTL Code Generation with Attention Sink Augmented Large Language Models
+19. Make Every Move Count: LLM-based High-Quality RTL Code Generation Using MCTS
 
 
 
@@ -49,6 +50,7 @@
 10. The Power of Large Language Models for Wireless Communication System Development: A Case Study on FPGA Platform
 11. A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation
 12. SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model
+13. AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs
 
 
 
