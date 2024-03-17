@@ -55,6 +55,8 @@
 14. On Hardware Security Bug Code Fixes By Prompting Large Language Models
 
 
+## Large Circuit Models (LCMs)
+1. The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models
 
 
 <!-- ## Feature Extraction -->
