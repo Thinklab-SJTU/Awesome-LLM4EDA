@@ -1,6 +1,6 @@
 # LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation
-- We would like to maintain a list of resources that utilize Large Language Models to solve promlems in Electronic Design Automation
-- [Paper Link](https://arxiv.org/abs/2401.12224)
+- We would like to maintain a list of resources that utilize Large Language Models to solve problems in Electronic Design Automation
+- [LLM4EDA Paper Link](https://arxiv.org/abs/2401.12224)
 - Also see our maintaining list for [Awesome Artificial Intelligence for Electronic Design Automation](https://github.com/Thinklab-SJTU/awesome-ai4eda)
 - *Maintained by members in SJTU-Thinklab: Ruizhe Zhong, Xingbo Du*
 
