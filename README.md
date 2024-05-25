@@ -46,13 +46,12 @@
 5. LLM-assisted Generation of Hardware Assertions
 6. Using LLMs to Facilitate Formal Verification of RTL
 7. DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and Policy-based Protection
-8. Fixing Hardware Security Bugs with Large Language Models
+8. Fixing Hardware Security Bugs with Large Language Models (On Hardware Security Bug Code Fixes By Prompting Large Language Models)
 9. LLM for SoC Security: A Paradigm Shift
 10. The Power of Large Language Models for Wireless Communication System Development: A Case Study on FPGA Platform
 11. A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation
 12. SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model
 13. AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs
-14. On Hardware Security Bug Code Fixes By Prompting Large Language Models
 
 
 ## Large Circuit Models (LCMs)
