@@ -11,6 +11,7 @@
 2. New Interaction Paradigm for Complex EDA Software Leveraging GPT
 3. From English to PCSEL: LLM helps design and optimize photonic crystal surface emitting lasers
 4. RapidGPT: Your Ultimate HDL Pair-Designer
+5. EDA Corpus: A Large Language Model Dataset for Enhanced Interaction with OpenROAD
 
 
 ## HDL and Script Generation
@@ -34,6 +35,10 @@
 18. Zero-Shot RTL Code Generation with Attention Sink Augmented Large Language Models
 19. Make Every Move Count: LLM-based High-Quality RTL Code Generation Using MCTS
 20. From English to ASIC Hardware Implementation with Large Language Model
+21. EDA Corpus: A Large Language Model Dataset for Enhanced Interaction with OpenROAD
+22. CreativEval: Evaluating Creativity of LLM-Based Hardware Code Generation
+23. Evaluating LLMs for Hardware Design and Test
+24. AnalogCoder: Analog Circuit Design via Training-Free Code Generation
 
 
 
@@ -52,6 +57,7 @@
 11. A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation
 12. SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model
 13. AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs
+14. Self-HWDebug: Automation of LLM Self-Instructing for Hardware Security Verification
 
 
 ## Large Circuit Models (LCMs)
