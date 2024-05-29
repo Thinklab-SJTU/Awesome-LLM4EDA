@@ -86,6 +86,7 @@
 
 ## Citation
 [LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation](https://arxiv.org/abs/2401.12224)
+
 If you find this repo useful, please cite our paper.
 ```
 @article{zhong2023llm4eda,
