@@ -7,6 +7,7 @@
 
 
 ## Assistant Chatbot
+- **Users can interact with LLMs for knowledge acquisition and Q&A, providing user-friendly and easy-interactively assistant chatbot and bring us new interaction paradigm with EDA software.**
 1. ChipNeMo: Domain-Adapted LLMs for Chip Design
 2. New Interaction Paradigm for Complex EDA Software Leveraging GPT
 3. From English to PCSEL: LLM helps design and optimize photonic crystal surface emitting lasers
@@ -15,6 +16,8 @@
 
 
 ## HDL and Script Generation
+- **Given language format specification and requirements, LLMs will generate RTL codes and EDA controlling scripts.**
+- **Besides, how to evaluate the quality of generated codes remains an open research focus, including syntax correctness, functionality equivalence, PPA, and security issues.**
 1. ChatEDA: A Large Language Model Powered Autonomous Agent for EDA
 2. ChipNeMo: Domain-Adapted LLMs for Chip Design
 3. ChipGPT: How far are we from natural language hardware design
@@ -39,11 +42,14 @@
 22. CreativEval: Evaluating Creativity of LLM-Based Hardware Code Generation
 23. Evaluating LLMs for Hardware Design and Test
 24. AnalogCoder: Analog Circuit Design via Training-Free Code Generation
+25. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework
 
 
 
 
 ## Code Analysis and Verification
+- **We also investigate LLMs' wide application in code analysis, such as bug detecting & fixing, code summarization and security checking.**
+- **Besides, LLMs have also demonstrated strong ability for verification, e.g. Assertion Based Verification.**
 1. ChipNeMo: Domain-Adapted LLMs for Chip Design
 2. LLM4SecHW: Leavering Domain-Specific Large Language Model for Hardware Debugging
 3. Unlocking Hardware Security Assurance: The Potential of LLMs
@@ -58,9 +64,11 @@
 12. SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model
 13. AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs
 14. Self-HWDebug: Automation of LLM Self-Instructing for Hardware Security Verification
+15. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework
 
 
 ## Large Circuit Models (LCMs)
+- **A multimodal circuit representation learning technique, poised to provide a comprehensive understanding by harmonizing and extracting insights from varied data sources, such as functional specifications, RTL designs, circuit netlists, and physical layouts.**
 1. The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models
 
 
@@ -76,4 +84,14 @@
 <!-- ## Task Planning -->
 
 
-
+## Citation
+[LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation](https://arxiv.org/abs/2401.12224)
+If you find this repo useful, please cite our paper.
+```
+@article{zhong2023llm4eda,
+  title={LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation},
+  author={Zhong, Ruizhe and Du, Xingbo and Kai, Shixiong and Tang, Zhentao and Xu, Siyuan and Zhen, Hui-Ling and Hao, Jianye and Xu, Qiang and Yuan, Mingxuan and Yan, Junchi},
+  journal={arXiv preprint arXiv:2401.12224},
+  year={2023}
+}
+```
