@@ -43,6 +43,7 @@
 23. Evaluating LLMs for Hardware Design and Test
 24. AnalogCoder: Analog Circuit Design via Training-Free Code Generation
 25. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework
+26. SynthAI: A Multi Agent Generative AI Framework for Automated Modular HLS Design Generation
 
 
 
