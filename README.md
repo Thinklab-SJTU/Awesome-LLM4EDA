@@ -43,6 +43,8 @@
 23. Evaluating LLMs for Hardware Design and Test
 24. AnalogCoder: Analog Circuit Design via Training-Free Code Generation
 25. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework
+26. SynthAI: A Multi Agent Generative AI Framework for Automated Modular HLS Design Generation
+27. Evaluating LLMs for Hardware Design and Test
 
 
 
@@ -65,6 +67,7 @@
 13. AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs
 14. Self-HWDebug: Automation of LLM Self-Instructing for Hardware Security Verification
 15. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework
+16. LLMs for Hardware Security: Boon or Bane?
 
 
 ## Large Circuit Models (LCMs)
