@@ -75,6 +75,13 @@
 1. The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models
 
 
+## LLMs as Agent
+- **LLMs are capable of functioning as agents, emulating human thought and action.**
+- **The LLM agent can perform task planning and execute tools to generate or refine design outcomes.**
+- **Based on the evaluation of the current design, the LLM agent utilizes these evaluation metrics as feedback to decide whether to refine the current result or to terminate the chip design process.**
+1. ChatPattern: Layout Pattern Customization via Natural Language
+2. Large Language Model (LLM) for Standard Cell Layout Design Optimization
+
 <!-- ## Feature Extraction -->
 
 
