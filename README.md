@@ -46,6 +46,7 @@
 26. SynthAI: A Multi Agent Generative AI Framework for Automated Modular HLS Design Generation
 27. Evaluating LLMs for Hardware Design and Test
 28. LLM-Aided Testbench Generation and Bug Detection for Finite-State Machines
+29. Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation
 
 
 
