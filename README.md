@@ -13,6 +13,7 @@
 3. From English to PCSEL: LLM helps design and optimize photonic crystal surface emitting lasers
 4. RapidGPT: Your Ultimate HDL Pair-Designer
 5. EDA Corpus: A Large Language Model Dataset for Enhanced Interaction with OpenROAD
+6. [CacheMind: From Miss Rates to Why — Natural-Language, Trace-Grounded Reasoning for Cache Replacement](https://research.ece.ncsu.edu/brainspec/wp-content/uploads/sites/35/2026/06/cachemind.pdf) (ASPLOS 2026) — LLM/RAG assistant for natural-language analysis of CPU cache traces and cache-replacement behavior.
 
 
 ## HDL and Script Generation
